@@ -1,0 +1,2 @@
+- hi, i'm stxchox. 👋
+- i do scripting and back-end website developement.
